@@ -1,162 +1,150 @@
 {
-  "name": "JustBlack",
-  "description": "All black.",
-  "color": "#000000",
-  "authors": [
-    {
-      "name": "TONY/SFKX",
-      "id": "917272046046703686"
-    }
-  ],
-  "plus": {
-       "version": 0,
-       "mentionLineColor": "#ffffff",
-       "iconpack": "rosiecord-plumpy"
-  },
-  "semanticColors": {
-    "HEADER_PRIMARY": [
-      "#ffffff",
-      "#ffffff"
-    ],
-    "HEADER_SECONDARY": [
-      "#ffffff",
-      "#ffffff"
-    ],
-    "TEXT_NORMAL": [
-      "#ffffff",
-      "#000000"
-    ],
-    "TEXT_MUTED": [
-      "#C3C3C3",
-      "#ffffff"
-    ],
-    "INTERACTIVE_NORMAL": [
-      "#ffffff",
-      "#FFFFFF"
-    ],
-    "INTERACTIVE_HOVER": [
-      "#ffffff",
-      "#ffffff"
-    ],
-    "INTERACTIVE_ACTIVE": [
-      "#ffffff",
-      "#FFFFFF"
-    ],
-    "INTERACTIVE_MUTED": [
-      "#403F3F",
-      "#FFFFFF"
-    ],
-    "BACKGROUND_PRIMARY": [
-      "#000000",
-      "#ffffff"
-    ],
-    "BACKGROUND_SECONDARY": [
-      "#000000",
-      "#ffffff"
-    ],
-    "BACKGROUND_SECONDARY_ALT": [
-      "#000000",
-      "#ffffff"
-    ],
-    "BACKGROUND_TERTIARY": [
-      "#000000",
-      "#ffffff"
-    ],
-    "BACKGROUND_ACCENT": [
-      "#2C2C2C",
-      "#ffffff"
-    ],
-    "BACKGROUND_FLOATING": [
-      "#111317",
-      "#ffffff"
-    ],
-    "BACKGROUND_MOBILE_PRIMARY": [
-      "#000000",
-      "#ffffff"
-    ],
-    "BACKGROUND_MOBILE_SECONDARY": [
-      "#000000",
-      "#ffffff"
-    ],
-    "BACKGROUND_NESTED_FLOATING": [
-      "#000000",
-      "#ffffff"
-    ],
-    "BACKGROUND_MENTIONED": [
-      "#333333",
-      "#ffffff"
-    ],
-    "BACKGROUND_MESSAGE_HOVER": [
-      "#5E5E5E",
-      "#ffffff"
-    ],
-    "BACKGROUND_MODIFIER_HOVER": [
-      "#000000",
-      "#ffffff"
-    ],
-    "BACKGROUND_MODIFIER_ACTIVE": [
-      "#5E5E5E",
-      "#ffffff"
-    ],
-    "BACKGROUND_MODIFIER_SELECTED": [
-      "#5E5E5E",
-      "#ffffff"
-    ],
-    "BACKGROUND_MODIFIER_ACCENT": [
-      "transparent",
-      "transparent"
-    ],
-    "SCROLLBAR_THIN_THUMB": [
-      "#333333",
-      "#ffffff"
-    ],
-    "SCROLLBAR_THIN_TRACK": [
-      "transparent",
-      "transparent"
-    ],
-    "SCROLLBAR_AUTO_THUMB": [
-      "#333333",
-      "#ffffff"
-    ],
-    "SCROLLBAR_AUTO_TRACK": [
-      "transparent",
-      "transparent"
-    ],
-    "CHANNELTEXTAREA_BACKGROUND": [
-      "#000000",
-      "#ffffff"
-    ],
-    "CHAT_BACKGROUND": [
-      "#000000",
-      "#ffffff"
-    ],
-    "CHANNELS_DEFAULT": [
-      "#D5D5D5",
-      "#ffffff"
-    ],
-    "CARD_PRIMARY_BG": [
-      "#000000"
-    ],
-    "BG_BACKDROP": [
-      "#04010173"
-    ],
-    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#000000"
-    ],
-    "TEXT_LINK": [
-      "#6B6B6B",
-      "#ffffff"
-    ],
-    "KEYBOARD": [
-      "#000000",
-      "#ffffff"
-    ],
-    "CHANNEL_ICON": [
-      "#5E5E5E",
-      "#ffffff"
-    ]
-  },
-  "rawColors": {
+   "name":"Tony",
+   "description":"Black.",
+   "authors":[
+      {
+         "name":"black",
+         "id":"917272046046703686"
+      }
+   ],
+   "semanticColors":{
+      "HEADER_PRIMARY":[
+         "#ffffff"
+      ],
+      "HEADER_SECONDARY":[
+         "#ffffff"
+      ],
+      "TEXT_NORMAL":[
+         "#ffffff"
+      ],
+      "TEXT_MUTED":[
+         "#C3C3C3"
+      ],
+      "INTERACTIVE_NORMAL":[
+         "#ffffff"
+      ],
+      "INTERACTIVE_HOVER":[
+         "#ffffff"
+      ],
+      "INTERACTIVE_ACTIVE":[
+         "#ffffff"
+      ],
+      "INTERACTIVE_MUTED":[
+         "#403F3F"
+      ],
+      "BACKGROUND_PRIMARY":[
+         "#000000"
+      ],
+      "BACKGROUND_SECONDARY":[
+         "#000000"
+      ],
+      "BACKGROUND_SECONDARY_ALT":[
+         "#000000"
+      ],
+      "BACKGROUND_TERTIARY":[
+         "#000000"
+      ],
+      "BACKGROUND_ACCENT":[
+         "#2C2C2C"
+      ],
+      "BACKGROUND_FLOATING":[
+         "#111317"
+      ],
+      "BACKGROUND_MOBILE_PRIMARY":[
+         "#000000"
+      ],
+      "BG_BASE_TERTIARY":[
+         "#000000"
+      ],
+      "BG_BASE_SECONDARY":[
+         "#000000"
+      ],
+      "BACKGROUND_MOBILE_SECONDARY":[
+         "#000000"
+      ],
+      "BACKGROUND_NESTED_FLOATING":[
+         "#000000"
+      ],
+      "BACKGROUND_MESSAGE_HOVER":[
+         "#5E5E5E"
+      ],
+      "BACKGROUND_MODIFIER_HOVER":[
+         "#000000"
+      ],
+      "BACKGROUND_MODIFIER_ACTIVE":[
+         "#5E5E5E"
+      ],
+      "BACKGROUND_MODIFIER_SELECTED":[
+         "#5E5E5E"
+      ],
+      "BACKGROUND_MODIFIER_ACCENT":[
+         "#transparent"
+      ],
+      "SCROLLBAR_THIN_THUMB":[
+         "#333333"
+      ],
+      "SCROLLBAR_THIN_TRACK":[
+         "transparent"
+      ],
+      "SCROLLBAR_AUTO_THUMB":[
+         "#333333"
+      ],
+      "SCROLLBAR_AUTO_TRACK":[
+         "transparent"
+      ],
+      "CHANNEL_TEXT_AREA_PLACEHOLDER":[
+         "#000000"
+      ],
+      "CHANNELS_DEFAULT":[
+         "#D5D5D5"
+      ],
+      "TEXT_LINK":[
+         "#6B6B6B"
+      ],
+      "TEXT_DANGER":[
+         "#b75057"
+      ],
+      "KEYBOARD":[
+         "#000000"
+      ],
+      "CHANNEL_ICON":[
+         "#28364d"
+      ],
+      "CHAT_BACKGROUND":[
+         "#152138"
+      ],
+      "REDESIGN_ACTIVITY_CARD_BACKGROUND":[
+         "#2c384a"
+      ],
+      "REDESIGN_CHANNEL_CATAGORY_NAME_TEXT":[
+         "#bf7aa7"
+      ],
+      "REDESIGN_CHANNEL_NAME_TEXT":[
+         "#ebe3f7"
+      ],
+      "CARD_PRIMARY_BG":[
+         "#0e1622"
+      ],
+      "CARD_SECONDARY_BG":[
+         "#211f38"
+      ],
+      "REDESIGN_BUTTON_SECONDARY_BACKGROUND":[
+         "#000000"
+      ],
+      "REDESIGN_CHAT_INPUT_BACKGROUND":[
+         "#0c121c"
+      ],
+      "REDESIGN_BUTTON_SECONDARY_BORDER":[
+         "#eb83b3"
+      ],
+      "BORDER_FAINT":[
+         "#40446b"
+      ],
+      "BG_BACKDROP":[
+         "transparent"
+      ]
+   },
+   "rawColors": {
     "PRIMARY": "#000000",
     "PRIMARY_100": "#ffffff",
     "PRIMARY_200": "#ffffff",
@@ -184,9 +172,13 @@
     "BRAND_900": "#ffffff",
     "BRAND": "#8a94a8",
 },
-  "background": {
-    "blur": 0.5,
-    "url": "https://files.catbox.moe/pb649a.jpeg",
-    "alpha": 1.0
-  }
+   "background":{
+      "blur":0.5,
+      "url":"https://files.catbox.moe/pb649a.jpeg",
+      "alpha":1.0
+   },
+   "plus":{
+      "version":"1.0",
+      "mentionLineColor":"#ffffff"
+   }
 }
